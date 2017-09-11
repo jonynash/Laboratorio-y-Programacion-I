@@ -1,0 +1,92 @@
+Si se conoce la cantidad de iteraciones es conveniente utilizar la estructura de control
+Seleccione una:
+a. do while
+b. for
+c. todas son correctas
+d. while
+
+
+
+Una variable utilizada como máximo
+Seleccione una:
+a. ninguna de las anteriores
+b. no hace falta compararla con dato alguno
+c. debe ser comparada como mayor al dato ingresado
+d. debe ser comparada como menor al dato ingresado
+
+
+Si no se conoce la cantidad de iteraciones, pero se tiene que iterar al menos una vez se debe utilizar la estructura de control
+Seleccione una:
+a. todas son correctas
+b. do while
+c. while
+d. for
+
+
+
+Si no se conoce la cantidad de iteraciones, y no hace falta iterar al menos una vez se debe utilizar la estructura de control
+Seleccione una:
+a. do while
+b. for
+c. las dos primeras
+d. while
+
+
+Si al tomar una decisión la condición resultase verdadera, el programa entraría en la estructura de control
+ 
+Seleccione una:
+a. if
+b. todas son correctas
+c. else
+d. if else
+
+
+
+
+
+Si al tomar una decisión la condición resultase falsa, el programa entraría en la estructura de control
+Seleccione una:
+a. if else
+b. ninguna es correcta
+c. else
+d. if
+
+
+
+
+Una variable utilizada como contador se utiliza para
+Seleccione una:
+a. sumar
+b. acumular
+c. contar
+d. restar
+
+
+
+Una variable utilizada como acumulador se utiliza para
+Seleccione una:
+a. sumar
+b. acumular
+c. restar
+d. contar
+
+
+
+
+Una variable utilizada como máximo o mínimo
+Seleccione una:
+a. debe declararse dentro de la estructura de control iterativa
+b. ninguna es correcta
+c. no es necesario inicializarla
+d. se debe inicializar obligatoriamente
+
+
+
+
+Una variable utilizada como contador o acumulador se debe declarar
+Seleccione una:
+a. fuera de la estructura de control iterativa
+b. ninguna es correcta
+c. dentro de la estructura de control iterativa
+d. dentro o fuera de la estructura de control iterativa, ya que produce el mismo resultado
+Siguiente

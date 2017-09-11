@@ -1,0 +1,18 @@
+Teoría 
+Primeros algoritmos [DESCARGAR]
+
+Bucles y tomas de decisiones
+Acumuladores y contadores
+Máximos y mínimos
+Cuestionario Teórico 
+1. Cuestionario
+
+Ejercicios  
+1) Realizar un programa que solicite cinco números e imprima por pantalla el promedio, el máximo y el mínimo.
+
+
+VIDEO DE YOUTUBE 
+
+
+
+https://www.youtube.com/watch?v=3BgMxuGO5tI
