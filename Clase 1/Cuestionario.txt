@@ -1,0 +1,33 @@
+A los programas que traducen programas escritos en un lenguaje de alto nivel a lenguaje máquina se les llama
+Seleccione una:
+a. intérpretes
+b. compiladores
+c. enlazadores
+d. editores
+
+
+
+Los programas en C, se introducen a la computadora me diante el uso de un programa llamadodevelope?
+Seleccione una:
+a. compilador
+b. enlazador
+c. editor
+d. preprocesador
+
+
+El programa que combina la salida del compilador con varias bibliotecas de funciones para producir una imagen ejecutable se denomina
+ 
+Seleccione una:
+a. enlazador
+b. compilador
+c. intérprete
+d. editor
+
+
+
+Un compilador traduce programas en un lenguaje de alto nivel a código
+Seleccione una:
+a. interpretado
+b. ejecutable
+c. objeto
+d. fuente
